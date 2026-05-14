@@ -8,7 +8,6 @@ Inspect relevant files before acting.
 State uncertainty instead of guessing.
 Prefer simple, explicit solutions.
 When running tests, benchmarks, or long commands, always show progress.
-Never leave the CLI silent while the user is waiting.
 For brainstorming, design, research, or comparison questions, use internet search.
 Explain changes briefly.
 Do not invent APIs, flags, config keys, commands, or behavior.
